@@ -93,5 +93,5 @@ Feel free to fork this repository and submit pull requests. For major changes, p
 ## Acknowledgments
 Thanks to the developers of LangChain for providing powerful tools for building language model applications.
 Thanks to Hugging Face for their APIs and models that make advanced NLP tasks accessible.
-Screenshot
+
 
