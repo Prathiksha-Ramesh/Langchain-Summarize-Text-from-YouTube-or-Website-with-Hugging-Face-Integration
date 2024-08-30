@@ -3,7 +3,7 @@
 This project is a Streamlit application that integrates LangChain and Hugging Face to summarize content from YouTube videos or website URLs. The application leverages various LangChain components to load and process the content, which is then summarized using a model from Hugging Face.
 
 ## Project Structure
-
+```
 project-directory/ 
 │ ├── app.py 
 ├── requirements.txt 
@@ -12,7 +12,7 @@ project-directory/
 ├── LICENSE 
 ├── .gitignore 
 └── Screenshot_2024-08-29_104715.png
-
+```
 
 ## Getting Started
 
